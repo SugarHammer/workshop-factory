@@ -1,4 +1,4 @@
-# 车间工厂管理系统(文末免费领取☟)
+# 车间工厂管理系统(文末获取方式☟)
 
 #### 介绍
 车间工厂管理平台（SpringBoot+Vue 三角色）
@@ -34,6 +34,7 @@ Java + SpringBoot + Vue + Mysql
 - idea/eclipse、jdk-1.8、maven-3.8.6、mysql、node.js
 
 ## 有项目修改、安装调试需求 请联系以下
-![关注免费领](联系.png)
+![获取方式](QQ.png)
 
 ## 获取资源扫☝☝☝
+
